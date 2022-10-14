@@ -1,2 +1,4 @@
 # crypto-bot-learning
-Learning about crypto 
+
+Alex and George want to learn more about crypto 
+
